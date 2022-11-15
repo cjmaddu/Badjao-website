@@ -1,0 +1,102 @@
+        body {  
+            background-color:#A9AF7E
+        }
+        
+        .box1 {
+            border:center;
+            background:#7D8F69;
+            outline:dotted;
+            border:5px;
+            outline-color:#557153;
+            
+            max-width:100%;  
+            overflow-x: scroll;
+            height:300px;
+            
+            margin:auto;
+            
+            text-align:center;
+        }
+        
+        .box2 {
+            border:center;
+            background:#7D8F69;
+            outline:dotted;
+            border:5px;
+            outline-color:#557153;
+            
+            max-width:100%;  
+            overflow-x: scroll;
+            height:90px;
+            
+            margin:auto;
+            
+            text-align:center;
+        }
+        
+        .box3 {
+            border:center;
+            background:#7D8F69;
+            outline:dotted;
+            border:5px;
+            outline-color:#557153;
+            
+            width:1380px;
+            height:fit-content;
+                        
+            text-align:center;
+        }
+
+        .box0 { 
+            border:center;
+            background:#7D8F69;
+            outline:dotted;
+            border:5px;
+            outline-color:#557153;
+            
+            text-align:center;
+        }
+
+        .container0 {
+            width:500px;
+            float:right;
+        }
+
+        .main {
+            position:relative;  
+            z-index: 1;
+        }
+
+        h1 { 
+            color:#E6E5A3;
+            text-align:center;
+            font-size:60px;
+        }
+        
+        p {
+            text-align:center;
+            font:"Georgia";
+            color:#E6E5A3;
+            font-size:30px;
+        }
+        
+        span {
+            font-weight:600;
+        }
+
+        li {
+            color:#E6E5A3;
+        }
+        
+        a:link, a:visited {
+            background-color:#557153;
+            color:#E6E5A3;
+            padding:15px 25px;
+            text-align:center;
+            font-size:25px;
+            display:inline-block;
+        }
+
+        a:hover, a:active {
+            background-color:#7D8F69;
+        }
